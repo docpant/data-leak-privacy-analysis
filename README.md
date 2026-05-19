@@ -39,3 +39,7 @@ The project evaluates how excessive access permissions and poor access managemen
 ## Outcome
 
 The project identified weaknesses in access management practices and proposed security control enhancements to reduce the likelihood of future data leaks.
+
+## References
+
+- [Data Leak Worksheet Template](docs/data-leak-worksheet-template.pdf)
